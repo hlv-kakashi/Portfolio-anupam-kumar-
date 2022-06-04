@@ -33,7 +33,7 @@ export const projectsData = [
         projectDesc: 'An online Portal for buying grocery in India.',
         tags: ['HTML', 'CSS', 'Javascript'],
         code: 'https://github.com/Snehil133/BigBasketProject    ',
-        demo: 'https://roaring-biscuit-218e07.netlify.app/"',
+        demo: 'https://roaring-biscuit-218e07.netlify.app/',
         image: 'https://media0.giphy.com/media/xTiTnizXXPe0x9uJjO/giphy.gif?cid=ecf05e47088c4fvdy6jkckz5g5yqe8xgnsht39zlcl21j2k1&rid=giphy.gif&ct=g'
     },
     {
