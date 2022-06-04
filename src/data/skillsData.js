@@ -1,39 +1,30 @@
- export const skillsData = [
-    'HTML',
-    'Javascript',
-    'CSS',
-    'React',
-    'Express',
-    'Node JS',
-    'Bootstrap',
-    'MongoDB',
-    'Wordpress',
-    'Microsoft Office',
-        'HTML',
-        'CSS',
-        'Javascript',
-        'TypeScript',
-        'React',
-        'Redux',
-        'NodeJS',
-        'MongoDB',
-        "Express",
-        'Bootstrap',
-        "Git",
-        "Cypress",
-        "npm",
-        "PostMan",
-        "Microsoft Office",
-        "Jestjs",
-        "netlify"
-        
-    
-    ]
-
+export const skillsData = [
+  "Typing",
+  "Express",
+  "Bootstrap",
+  "MongoDB",
+  "Wordpress",
+  "Microsoft Office",
+  "HTML",
+  "CSS",
+  "Javascript",
+  "TypeScript",
+  "React",
+  "Redux",
+  "NodeJS",
+  "Express",
+  "Bootstrap",
+  "Git",
+  "Cypress",
+  "npm",
+  "PostMan",
+  "Microsoft Office",
+  "Jestjs",
+  "netlify",
+];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
-
 
 // AVAILABLE SKILLS
 

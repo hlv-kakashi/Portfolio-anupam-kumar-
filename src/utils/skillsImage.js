@@ -79,6 +79,12 @@ import canva from '../assets/svg/skills/canva.svg'
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
+        case "typing":
+            return "https://cdn.iconscout.com/icon/premium/png-64-thumb/typing-81-904677.png";
+        case "netlify":
+            return "https://cdn.iconscout.com/icon/free/png-64/netlify-3521601-2945045.png";
+            case "jestjs":
+                return "https://cdn.iconscout.com/icon/free/png-64/jest-3521517-2945020.png";
         case 'nodejs':
         return "https://nodejs.org/static/images/logo.svg";
         case 'redux':
