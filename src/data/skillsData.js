@@ -13,14 +13,15 @@ export const skillsData = [
   "Redux",
   "NodeJS",
   "Express",
-  "Bootstrap",
+  "Material UI",
   "Git",
   "Cypress",
   "npm",
   "PostMan",
-  "Microsoft Office",
+  "Next JS",
   "Jestjs",
   "netlify",
+  "redis"
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
