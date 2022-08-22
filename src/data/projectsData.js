@@ -34,7 +34,7 @@ export const projectsData = [
         projectDesc: 'It is an American fast food restaurant chain headquartered in LouisVille, Kentucky, that specializes in Fried Chicken',
         tags: ["ReactJs" , "HTML" , "CSS Material UI" , "Redux" , "MongoDB" ,
         "Express" , "NodeJs" ],
-        code: 'https://github.com/hlv-kakashi/bathandbodyworks-clone',
+        code: 'https://github.com/hlv-kakashi/KFC-clone-full-stack',
         demo: 'https://singular-kleicha-5eef4a.netlify.app/',
         image: 'https://media3.giphy.com/media/kfQraZBA266GAOq7w3/200w.webp?cid=ecf05e47imatxr830i90tdvtm5ks62bunneuf9lbshhds7p7&rid=200w.webp&ct=g'
     },
