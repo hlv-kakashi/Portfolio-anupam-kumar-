@@ -19,6 +19,27 @@ export const projectsData = [
         image: 'https://media3.giphy.com/media/fvqVax5PXIPm4i45Zw/giphy.gif?cid=ecf05e47jiv5zlorewb4dwihsu3iw4ojx2l1ip7g9rqpshvx&rid=giphy.gif&ct=g'
     },
     {
+        id: 1,
+        projectName: 'Nyka clone',
+        projectDesc: 'It is an Indian e-commerce website which sells beauty wellness and fashion products.',
+        tags: ["ReactJs" , "HTML" , "CSS Material UI" , "Redux" , "MongoDB" ,
+              "Express" , "NodeJs" ],
+        code: 'https://github.com/hlv-kakashi/synonymous-nose-6503',
+        demo: 'https://nkyclone.netlify.app/',
+        image: 'https://media2.giphy.com/media/1qk3vO4z1PsJgTxIre/giphy.gif?cid=ecf05e47hgv6skq6w9fzfel01x4nroould5b8p5umtz8945q&rid=giphy.gif&ct=g'
+    },
+    {
+        id: 1,
+        projectName: 'KFC clone',
+        projectDesc: 'It is an American fast food restaurant chain headquartered in LouisVille, Kentucky, that specializes in Fried Chicken',
+        tags: ["ReactJs" , "HTML" , "CSS Material UI" , "Redux" , "MongoDB" ,
+        "Express" , "NodeJs" ],
+        code: 'https://github.com/hlv-kakashi/bathandbodyworks-clone',
+        demo: 'https://singular-kleicha-5eef4a.netlify.app/',
+        image: 'https://media3.giphy.com/media/kfQraZBA266GAOq7w3/200w.webp?cid=ecf05e47imatxr830i90tdvtm5ks62bunneuf9lbshhds7p7&rid=200w.webp&ct=g'
+    },
+
+    {
         id: 2,
         projectName: 'Health-Kart Clone',
         projectDesc: 'An online Portal for Dietary Supplements and health devices',
