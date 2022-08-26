@@ -15,7 +15,7 @@ export const projectsData = [
         projectDesc: 'It is a clone of an American retail store chain which sells soaps, lotions, fragrances, and candles.',
         tags: ['HTML', 'CSS', 'Javascript','react',"redux","Thunk","Routing"],
         code: 'https://github.com/hlv-kakashi/bathandbodyworks-clone',
-        demo: 'https://singular-kleicha-5eef4a.netlify.app/',
+        demo: 'https://clone-of-bathandbodyworks.netlify.app/',
         image: 'https://media3.giphy.com/media/fvqVax5PXIPm4i45Zw/giphy.gif?cid=ecf05e47jiv5zlorewb4dwihsu3iw4ojx2l1ip7g9rqpshvx&rid=giphy.gif&ct=g'
     },
     {
